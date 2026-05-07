@@ -54,4 +54,4 @@ If we change this policy in any material way, we will update the "Last updated" 
 
 ## Contact
 
-If you have any questions about this policy or about how the app handles your information, contact us at: **haimbilia85+pulse@gmail.com**
+If you have any questions about this policy or about how the app handles your information, contact us at: info@karotech.io
