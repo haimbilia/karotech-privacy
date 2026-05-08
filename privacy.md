@@ -21,7 +21,7 @@ This information is stored only on your device, in storage private to the app. W
 
 ## What the app sends over the network
 
-When the app wakes your PC, it sends a "magic packet" — a short, standard Wake-on-LAN broadcast — over your local Wi-Fi network to the PC's MAC address. This packet does not leave your local network and is not sent to any server.
+When the app wakes your PC, it sends a "magic packet", a short, standard Wake-on-LAN broadcast, over your local Wi-Fi network to the PC's MAC address. This packet does not leave your local network and is not sent to any server.
 
 If you use the app's test mode with the Pulse Windows companion application, the app also exchanges short text-based control messages with the Windows app over your local network. These messages stay on your local network and are not sent to any server we operate.
 
@@ -31,10 +31,10 @@ The app does not contact any analytics service, advertising network, crash-repor
 
 Karo Pulse requests the following Android permissions strictly for the purposes described:
 
-- **Bluetooth scan and connect** — to discover and detect your saved controller. The app does not use Bluetooth scan results to determine your physical location.
-- **Internet, network state** — to send Wake-on-LAN packets and to communicate with the Pulse Windows companion app on your local network only.
-- **Foreground service (connected device)** — to keep Bluetooth detection running while the app is in the background, so your PC wakes when your controller is in range. While running, the app shows a persistent notification you can tap to disarm at any time.
-- **Post notifications** — to show the persistent "armed" status notification described above and to confirm wake events.
+- **Bluetooth scan and connect**, to discover and detect your saved controller. The app does not use Bluetooth scan results to determine your physical location.
+- **Internet, network state**, to send Wake-on-LAN packets and to communicate with the Pulse Windows companion app on your local network only.
+- **Foreground service (connected device)**, to keep Bluetooth detection running while the app is in the background, so your PC wakes when your controller is in range. While running, the app shows a persistent notification you can tap to disarm at any time.
+- **Post notifications**, to show the persistent "armed" status notification described above and to confirm wake events.
 
 ## Data that Google Play may collect
 
